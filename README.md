@@ -3,7 +3,7 @@
 
 |     | Project Name | Concepts Taught | Learning Objectives | Linked Lesson |
 | :-: | :----------: | :-------------: | ------------------- | :-----------: |
-| 01 | [Getting started](./1-getting-started) | Introduction to IoT | Learn the basic principles of IoT and the basic building blocks of IoT solutions such as sensors and cloud services whilst you are setting up your first IoT device | [Introduction to IoT](./1-getting-started/lessons/1-introduction-to-iot/README.md) |
+| 01 ✔ Done | [Getting started](./1-getting-started) | Introduction to IoT | Learn the basic principles of IoT and the basic building blocks of IoT solutions such as sensors and cloud services whilst you are setting up your first IoT device | [Introduction to IoT](./1-getting-started/lessons/1-introduction-to-iot/README.md) |
 | 02 | [Getting started](./1-getting-started) | A deeper dive into IoT | Learn more about the components of an IoT system, as well as microcontrollers and single-board computers | [A deeper dive into IoT](./1-getting-started/lessons/2-deeper-dive/README.md) |
 | 03 | [Getting started](./1-getting-started) | Interact with the physical world with sensors and actuators | Learn about sensors to gather data from the physical world, and actuators to send feedback, whilst you build a nightlight | [Interact with the physical world with sensors and actuators](./1-getting-started/lessons/3-sensors-and-actuators/README.md) |
 | 04 | [Getting started](./1-getting-started) | Connect your device to the Internet | Learn about how to connect an IoT device to the Internet to send and receive messages by connecting your nightlight to an MQTT broker | [Connect your device to the Internet](./1-getting-started/lessons/4-connect-internet/README.md) |
